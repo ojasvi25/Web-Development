@@ -1,0 +1,36 @@
+h1{
+	text-align: center;
+}
+
+.web-content{
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.paragraph {
+	align-content: center;
+}
+
+.grid-container {
+	display: flex;
+	
+}
+
+.grid-container2 {
+	display: flex;
+}
+
+ul{
+	text-align: center;
+	display: inline;
+	}
+
+
+
+body{
+	background-image: url('https://edmidentity.com/wp-content/uploads/2021/02/Daft-Punk-Epilogue-00-02-04-.jpg');
+	background-size: auto;
+	background-repeat: none;
+	background-blend-mode: lighten;
+}
